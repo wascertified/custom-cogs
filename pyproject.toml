@@ -15,4 +15,4 @@ include-license = true
 
 [tool.dexi.package]
 source = "battle"
-target = "battling"
+target = "battle"
